@@ -32,5 +32,5 @@ Data Science Portfolio
 * Creating base model with few machine learning algorithm (Linear Regression, XGB Regression, Decision Tree, and Random Forest)
 * Hypertuning model and optimized them with GridSearchCV and RandomizedSearchCV
 * Using the Logistic regression Machine Learning that has recall of 96.5 %                                                                            
-![](/images/age_response.png)
+![](/images/response.png)
 ![](/images/health_result.bmp)
