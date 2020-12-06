@@ -1,4 +1,4 @@
-# Endi_Portfolio
+# Endi Portfolio
 Data Science Portfolio
 
 # [Project 1: Data Science House Price Prediction](https://github.com/endif1/King_County_House_Price_Predict)
