@@ -7,6 +7,7 @@ Data Science Portfolio
 * Creating map using folium to re categorized house based on price
 * Creating base model with few machine learning algorithm (Linear Regression, XGB Regression, Decision Tree, and Random Forest)
 * Hypertuning model and optimized them with GridSearchCV and RandomizedSearchCV
+* XGBoost with HyperParameter Tuning has the Higest evaluation matrix to predict house prices in King County with the accuracy of 88 %
 ![](/images/capture_20201206192236081.bmp)
 
 # [Project 2: Data Science Movie Popularity Prediction](https://github.com/endif1/Movies-Popularity-Prediction)
@@ -17,6 +18,7 @@ Data Science Portfolio
 * Creating base model with few machine learning algorithm (Linear Regression, XGB Regression, Decision Tree)
 * Hypertuning model and optimized them with GridSearchCV and RandomizedSearchCV
 * Built a client facing API using Flask
+* Modelling Report using XGB HyperParameter Tuning, train data result is 93.25 %  and testing data result is 90.28% 
 ![](/images/audience_count.png)
 
 # [Project 3: Data Science Health Insurance Cross Sell Prediction](https://github.com/endif1/Health-Insurance-Cross-Sell-Prediction-)
@@ -27,4 +29,5 @@ Data Science Portfolio
 * Apllying the SMOTE (Synthetic Minority Oversampling Technique) to the minority target since the data is Imbalance
 * Creating base model with few machine learning algorithm (Linear Regression, XGB Regression, Decision Tree, and Random Forest)
 * Hypertuning model and optimized them with GridSearchCV and RandomizedSearchCV
+* Using the Logistic regression Machine Learning that has recall of 96.5 %
 ![](/images/age_response.png)
