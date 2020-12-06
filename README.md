@@ -7,7 +7,7 @@ Data Science Portfolio
 * Creating map using folium to re categorized house based on price
 * Creating base model with few machine learning algorithm (Linear Regression, XGB Regression, Decision Tree, and Random Forest)
 * Hypertuning model and optimized them with GridSearchCV and RandomizedSearchCV
-* XGBoost with HyperParameter Tuning has the Higest evaluation matrix to predict house prices in King County with the accuracy of 88 %
+* XGBoost with HyperParameter Tuning has the Higest evaluation matrix to predict house prices in King County with the R2 score of 88 %
 ![](/images/capture_20201206192236081.bmp)
 ![](/images/house_result.bmp)
 
@@ -19,7 +19,7 @@ Data Science Portfolio
 * Creating base model with few machine learning algorithm (Linear Regression, XGB Regression, Decision Tree)
 * Hypertuning model and optimized them with GridSearchCV and RandomizedSearchCV
 * Built a client facing API using Flask
-* Modelling Report using XGB HyperParameter Tuning, train data result is 93.25 %  and testing data result is 90.28% 
+* Modelling Report using XGB HyperParameter Tuning, R2 score train 93.25 % and testing result 90.28% 
 ![](/images/audience_count.png)
 ![](/images/movie_result.bmp)
 
