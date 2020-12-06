@@ -9,7 +9,7 @@ Data Science Portfolio
 * Hypertuning model and optimized them with GridSearchCV and RandomizedSearchCV
 * XGBoost with HyperParameter Tuning has the Higest evaluation matrix to predict house prices in King County with the accuracy of 88 %
 ![](/images/capture_20201206192236081.bmp)
-![](/main/images/house_result.bmp)
+![](/images/house_result.bmp)
 
 # [Project 2: Data Science Movie Popularity Prediction](https://github.com/endif1/Movies-Popularity-Prediction)
 * Created tool that estimates audience based on rotten tomatoes dataset
@@ -31,6 +31,6 @@ Data Science Portfolio
 * Apllying the SMOTE (Synthetic Minority Oversampling Technique) to the minority target since the data is Imbalance
 * Creating base model with few machine learning algorithm (Linear Regression, XGB Regression, Decision Tree, and Random Forest)
 * Hypertuning model and optimized them with GridSearchCV and RandomizedSearchCV
-* Using the Logistic regression Machine Learning that has recall of 96.5 %
+* Using the Logistic regression Machine Learning that has recall of 96.5 %                                                                            
 ![](/images/age_response.png)
 ![](/images/health_result.bmp)
