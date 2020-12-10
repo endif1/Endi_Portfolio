@@ -21,5 +21,5 @@ Data Science Portfolio
 * In this case we will build a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance
 * Analyzing features that affect Response customer
 * Using the SMOTE to the minority target since the data is Imbalance
-* Applying base model with few machine learning algorithm 
+* Applying base model with few machine learning algorithm                                                                                         
 ![](/images/response.png)
