@@ -5,32 +5,21 @@ Data Science Portfolio
 * Created tool that estimates house price at King County
 * Analyzing features that affect house prices
 * Creating map using folium to re categorized house based on price
-* Creating base model with few machine learning algorithm (Linear Regression, XGB Regression, Decision Tree, and Random Forest)
-* Hypertuning model and optimized them with GridSearchCV and RandomizedSearchCV
-* XGBoost with HyperParameter Tuning has the Higest evaluation matrix to predict house prices in King County with the R2 score of 88 %
+* Creating base model with few machine learning algorithm and optimized them 
 ![](/images/capture_20201206192236081.bmp)
-![](/images/house_result.bmp)
+
 
 # [Project 2: Data Science Movie Popularity Prediction](https://github.com/endif1/Movies-Popularity-Prediction)
 * Created tool that estimates audience based on rotten tomatoes dataset
-* Cleaning, filling, binning, change value data so it can be use for Visualization and Machine Learning  
+* Cleaning data so it can be use for Visualization and Machine Learning  
 * Analyzing features that affect popularity
-* Encode categorical values using OneHotEncoder
-* Creating base model with few machine learning algorithm (Linear Regression, XGB Regression, Decision Tree)
-* Hypertuning model and optimized them with GridSearchCV and RandomizedSearchCV
+* Creating base model with few machine learning algorithm and optimized them 
 * Built a client facing API using Flask
-* Modelling Report using XGB HyperParameter Tuning, R2 score train 93.25 % and testing result 90.28% 
 ![](/images/audience_count.png)
-![](/images/movie_result.bmp)
 
 # [Project 3: Data Science Health Insurance Cross Sell Prediction](https://github.com/endif1/Health-Insurance-Cross-Sell-Prediction-)
 * In this case we will build a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance
-* Binning, change value data so it can be use for Visualization
 * Analyzing features that affect Response customer
-* Encode categorical values using Pandas .map function
-* Apllying the SMOTE (Synthetic Minority Oversampling Technique) to the minority target since the data is Imbalance
-* Creating base model with few machine learning algorithm (Linear Regression, XGB Regression, Decision Tree, and Random Forest)
-* Hypertuning model and optimized them with GridSearchCV and RandomizedSearchCV
-* Using the Logistic regression Machine Learning that has recall of 96.5 %                                                                            
+* Using the SMOTE to the minority target since the data is Imbalance
+* Applying base model with few machine learning algorithm 
 ![](/images/response.png)
-![](/images/health_result.bmp)
