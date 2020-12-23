@@ -10,7 +10,7 @@ Data Science Portfolio
 
 
 # [Project 2: Data Science Movie Popularity Prediction](https://github.com/endif1/Movies-Popularity-Prediction)
-* Created tool that estimates audience based on rotten tomatoes dataset
+* In this case we created tool that estimates audience based on rotten tomatoes dataset
 * Cleaning data so it can be use for Visualization and Machine Learning  
 * Analysing features that affect popularity
 * Creating base model with few machine learning algorithms and optimized them 
